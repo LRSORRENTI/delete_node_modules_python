@@ -14,6 +14,7 @@ This Python script recursively searches for and deletes `node_modules` directori
    - Open the `delete_node_modules.py` file in a text editor.
    - Locate the line that reads `base_directory = '/path/to/your/Desktop'`.
    - Replace `'/path/to/your/Desktop'` with the path to the directory where you want to start searching for `node_modules`. Ensure you have the correct path to avoid unintended deletions.
+   
    ```
    base_directory = "C:\\Users\\username\\Desktop"
    ```
