@@ -20,6 +20,9 @@ To run the script, follow these steps:
 1. Open your terminal or command prompt.
 2. Navigate to the directory where the `delete_node_modules.py` file is saved.
 3. Run the script by typing the following command and then press Enter:
+```
+python delete_node_modules.py
+```
 4. The script will start processing and will print paths of the `node_modules` directories as they are deleted.
 
 ## Caution
