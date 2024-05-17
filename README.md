@@ -21,7 +21,7 @@ This Python script recursively searches for and deletes `node_modules` directori
    ```
 
 ## Usage
-To run the script, follow these steps:
+**To run the script, follow these steps:**
 1. Open your terminal or command prompt.
 2. Navigate to the directory where the `delete_node_modules.py` file is saved.
 3. Run the script by typing the following command and then press Enter:
