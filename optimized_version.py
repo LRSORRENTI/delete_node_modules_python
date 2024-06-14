@@ -38,3 +38,11 @@ if __name__ == "__main__":
     delete_node_modules(args.directory, args.verbose)
 
 # EX: python delete_node_modules.py ~/Desktop/delete_node_modules_with_python/ -v
+
+# Deleted Desktop/delete_node_modules_with_python/node_modules
+# Deleted Desktop/delete_node_modules_with_python/backend/node_modules
+# Deleted Desktop/delete_node_modules_with_python/backend/test/node_modules
+# Deleted Desktop/delete_node_modules_with_python/modules/node/node_modules
+# Deleted Desktop/delete_node_modules_with_python/modules/node/api/node_modules
+# Deleted Desktop/delete_node_modules_with_python/test/node_modules
+# Deleted Desktop/delete_node_modules_with_python/test/routes/node_modules
